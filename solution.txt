@@ -1,0 +1,9 @@
+You need create a new game
+
+Step 1: Create a new game
+step 2: Install and import the classes
+step 3: Create a new screen
+step 4: add a new background
+step 5: read the csv file
+step 6: pull the csv file compare with entry when user interaction
+step 7:
